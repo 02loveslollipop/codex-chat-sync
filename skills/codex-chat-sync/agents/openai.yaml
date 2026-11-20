@@ -1,0 +1,3 @@
+interface:
+  display_name: "Codex Chat Sync"
+  short_description: "Sync individual Codex chats and subchats between App and CLI"
